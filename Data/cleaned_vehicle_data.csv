@@ -1,4 +1,4 @@
-price,kilometrage,transmission,year,engine_size,brand,model,power,fuel
+Price,Kilométrage,Boite vitesse,year,Cylindrée,Brand,Model,power,Energie
 37500,43000.0,automatique,2015.0,1.2,Kia,Picanto,5.0,essence
 27000,95000.0,manuelle,2019.0,4.0,Citroen,C-Elysée,5.0,essence
 39700,84200.0,manuelle,2021.0,1.2,Volkswagen,Polo,4.0,essence
@@ -3293,14 +3293,11 @@ price,kilometrage,transmission,year,engine_size,brand,model,power,fuel
 47200,238000.0,manuelle,2012.0,1.6,Volkswagen,Golf 7,5.0,diesel
 33000,211000.0,manuelle,2010.0,1.9,Volkswagen,Jetta,6.0,diesel
 27000,279000.0,manuelle,2006.0,1.9,Volkswagen,Passat,6.0,diesel
-39000,350.0,manuelle,2009.0,2.0,Volkswagen,Golf 6,6.0,diesel
 40000,260000.0,manuelle,2019.0,1.2,Hyundai,I 20,5.0,essence
-17000,200.0,manuelle,2010.0,1.2,Peugeot,206,6.0,essence
 60000,150000.0,manuelle,2020.0,1.5,Renault,Clio,5.0,diesel
 29000,118000.0,manuelle,2021.0,1.5,Peugeot,308,5.0,diesel
 15000,244000.0,manuelle,2000.0,1.4,Toyota,Corolla,6.0,essence
 64500,160000.0,automatique,2014.0,1.6,Bmw,Serie 3,7.0,essence
-21500,225.0,manuelle,2006.0,1.5,Renault,Clio,5.0,essence
 70000,213000.0,manuelle,2010.0,2.5,Isuzu,D-Max,10.0,diesel
 50000,265000.0,automatique,2009.0,3.2,Mercedes-Benz,Classe C,14.0,diesel
 70000,160000.0,manuelle,2020.0,1.4,Peugeot,3008,7.0,essence
@@ -3314,8 +3311,6 @@ price,kilometrage,transmission,year,engine_size,brand,model,power,fuel
 45000,381000.0,manuelle,2014.0,1.5,Nissan,Qashqai,5.0,diesel
 39000,75000.0,manuelle,2017.0,1.4,Volkswagen,Polo,5.0,essence
 18500,286000.0,manuelle,2014.0,1.2,Fiat,Doblo,5.0,diesel
-35000,153.0,manuelle,2013.0,4.0,Peugeot,3008,7.0,essence
-23000,0.0,manuelle,2016.0,1.4,Peugeot,301,5.0,diesel
 48000,292000.0,automatique,2011.0,2.0,Kia,Sportage,11.0,essence
 47500,30000.0,manuelle,2022.0,1.0,Kia,Picanto,4.0,essence
 26000,111111.0,manuelle,2015.0,1.2,Peugeot,208,5.0,essence
@@ -3325,11 +3320,10 @@ price,kilometrage,transmission,year,engine_size,brand,model,power,fuel
 23000,320000.0,manuelle,2008.0,1.2,Citroen,C4 Cactus,6.0,essence
 74000,90500.0,automatique,2019.0,1.5,Haval,H6,9.0,essence
 40500,144000.0,automatique,2016.0,1.0,Ford,Focus,6.0,essence
-15800,5.0,manuelle,2014.0,1.6,Toyota,Corolla,6.0,diesel
 76000,41000.0,automatique,2021.0,1.4,Peugeot,2008,7.0,essence
 38000,144900.0,automatique,2012.0,3.0,Ssangyong,Kyron,10.0,diesel
 50000,112500.0,manuelle,2012.0,1.6,Autres,Autres,7.0,essence
 18000,199000.0,manuelle,2002.0,2.4,Peugeot,206,4.0,essence
 35000,299000.0,manuelle,2013.0,1.6,Citroen,C4,5.0,diesel
 40000,30200.0,manuelle,2022.0,1.2,Mitsubishi,Canter,4.0,essence
-36000,262.0,automatique,2011.0,1.6,Peugeot,508,6.0,diesel
+

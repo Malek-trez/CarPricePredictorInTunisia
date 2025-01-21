@@ -12,7 +12,7 @@ headers = {
 def get_Cars_Urls():
     Cars = []
 
-    for i in range (1,9):
+    for i in range (1,13):
         brand_url = f'http://www.tunisie-annonce.com/AnnoncesAuto.asp?rech_cod_cat=2&rech_cod_rub=201&rech_cod_typ=&rech_cod_sou_typ=&rech_cod_pay=TN&rech_cod_reg=&rech_cod_vil=&rech_cod_loc=&rech_prix_min=&rech_prix_max=&rech_surf_min=&rech_surf_max=&rech_age=&rech_cod_energ=&rech_photo=&rech_order_by=31&rech_page_num={str(i)}'
         response = requests.get(brand_url, headers=headers)
         soup = BeautifulSoup(response.text, 'html.parser')
