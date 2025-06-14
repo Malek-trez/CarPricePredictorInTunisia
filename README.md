@@ -6,21 +6,19 @@ A machine learning project that predicts car prices in Tunisia based on various 
 
 ```
 ├── Data/               # Contains datasets and raw data
-├── Src/               # Source code
+├── Src/        
 │   ├── Scraping/     # Web scraping scripts
 │   ├── Modeling/     # ML models and training code
 │   └── DataManip/    # Data preprocessing and manipulation
-├── requirements.txt   # Project dependencies
-└── LICENSE           # Project license
+├── requirements.txt  
+└── LICENSE       
 ```
 
 ## Features
 
 - Web scraping of car listings from Tunisian car market websites
-- Data preprocessing and feature engineering
+- Data preprocessing 
 - Machine learning model for price prediction
-- Data visualization and analysis
-- Interactive price prediction interface
 
 ## Requirements
 
@@ -60,18 +58,7 @@ pip install -r requirements.txt
 
 4. Making Predictions:
    - Use the trained model to predict car prices based on input features
-   - View visualizations and analysis of the predictions
 
 ## License
 
-This project is licensed under the terms included in the LICENSE file.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
